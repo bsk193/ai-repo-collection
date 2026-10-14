@@ -1,0 +1,493 @@
+{
+  "owner": "bsk193",
+  "snapshot_date": "2026-10-14",
+  "collection": "ai",
+  "count": 22,
+  "repositories": [
+    {
+      "collection": "ai",
+      "category": "Agents and workspaces",
+      "name": "itseffi/agentic-os",
+      "url": "https://github.com/itseffi/agentic-os",
+      "description": "Agentic personal OS to automate high-leverage workflows with Codex, Claude Code, Pi, OpenClaw and other coding agents/ runtime platforms.",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "cursor",
+        "openclaw",
+        "os",
+        "pi"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Agents and workspaces",
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "hermes",
+        "hermes-agent",
+        "llm",
+        "nous-research",
+        "openai"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Agents and workspaces",
+      "name": "odysseus-dev/odysseus",
+      "url": "https://github.com/odysseus-dev/odysseus",
+      "description": "Self-hosted AI workspace. ",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "collection": "ai",
+      "category": "Agents and workspaces",
+      "name": "open-jarvis/OpenJarvis",
+      "url": "https://github.com/open-jarvis/OpenJarvis",
+      "description": "Personal AI, On Personal Devices",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "collection": "ai",
+      "category": "Agents and workspaces",
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "sources": [
+        "Starred",
+        "Watching"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "acpx",
+        "agent-orchestration",
+        "agent-skills",
+        "agentic-ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-governance",
+        "ai-tools",
+        "autonomous-agents",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hermes",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openclaw",
+        "project-management",
+        "workflow-automation"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Agents and workspaces",
+      "name": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "sources": [
+        "Starred",
+        "Watching"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "collection": "ai",
+      "category": "Agents and workspaces",
+      "name": "ultraworkers/claw-code-parity",
+      "url": "https://github.com/ultraworkers/claw-code-parity",
+      "description": "Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": true,
+      "topics": []
+    },
+    {
+      "collection": "ai",
+      "category": "Agents and workspaces",
+      "name": "vellum-ai/vellum-assistant",
+      "url": "https://github.com/vellum-ai/vellum-assistant",
+      "description": "An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai-assistant",
+        "anthropic",
+        "autonomous-agents",
+        "claude",
+        "claude-code",
+        "ios",
+        "macos",
+        "memory",
+        "open-source",
+        "openai",
+        "openclaw",
+        "proactive-ai",
+        "slack",
+        "telegram-bot",
+        "vellum-ai"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Coding workflows and memory",
+      "name": "brobertsaz/claude-os",
+      "url": "https://github.com/brobertsaz/claude-os",
+      "description": "Persistent memory and knowledge management for Claude Code.",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "collection": "ai",
+      "category": "Coding workflows and memory",
+      "name": "buildermethods/agent-os",
+      "url": "https://github.com/buildermethods/agent-os",
+      "description": "Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "collection": "ai",
+      "category": "Coding workflows and memory",
+      "name": "KbWen/agentic-os",
+      "url": "https://github.com/KbWen/agentic-os",
+      "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for Claude Code, Codex, Cursor, Copilot, and Antigravity, via AGENTS.md.",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "agent-framework",
+        "agent-orchestration",
+        "agentic-development",
+        "agents-md",
+        "ai-agent",
+        "ai-coding-assistant",
+        "ai-governance",
+        "ai-guardrails",
+        "ai-workflow",
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "cursor-rules",
+        "developer-tools",
+        "github-copilot",
+        "google-antigravity",
+        "llm-tools",
+        "multi-agent",
+        "prompt-engineering",
+        "token-optimization"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Coding workflows and memory",
+      "name": "lucasrosati/claude-code-memory-setup",
+      "url": "https://github.com/lucasrosati/claude-code-memory-setup",
+      "description": "Up to 71.5x fewer tokens per session on Claude Code with Obsidian + Graphify. Persistent memory, codebase knowledge graphs, and chat import pipeline. 🇧🇷 PT-BR included.",
+      "sources": [
+        "Starred",
+        "Watching"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "ai-tools",
+        "claude-code",
+        "coding-agent",
+        "developer-productivity",
+        "graphify",
+        "knowledge-graph",
+        "obsidian",
+        "second-brain",
+        "token-optimization",
+        "zettelkasten"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Coding workflows and memory",
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "sources": [
+        "Starred",
+        "Watching"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis",
+        "claude-code",
+        "cli",
+        "codex",
+        "cordis",
+        "decompiler",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "ghidra",
+        "hopper",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "rea",
+        "reverse-engineering",
+        "static-analysis",
+        "touhou"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Learning and tool collections",
+      "name": "carlvellotti/claude-code-everyone-course",
+      "url": "https://github.com/carlvellotti/claude-code-everyone-course",
+      "description": "Claude Code for Everyone - Learn Claude Code in Claude Code",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "collection": "ai",
+      "category": "Learning and tool collections",
+      "name": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "agent-skills",
+        "agentic-code",
+        "agentic-coding",
+        "ai-workflow-optimization",
+        "ai-workflows",
+        "anthropic",
+        "anthropic-claude",
+        "awesome",
+        "awesome-claude-code",
+        "awesome-list",
+        "awesome-lists",
+        "awesome-resources",
+        "claude",
+        "claude-code",
+        "coding-agent",
+        "coding-agents",
+        "coding-assistant",
+        "coding-assistants",
+        "llm"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Learning and tool collections",
+      "name": "jqueryscript/awesome-claude-code",
+      "url": "https://github.com/jqueryscript/awesome-claude-code",
+      "description": "A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic's Claude Code. ",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "cli",
+        "code-generation",
+        "coding-agents",
+        "vibe-coding"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Learning and tool collections",
+      "name": "rohitg00/awesome-claude-code-toolkit",
+      "url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+      "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "claude",
+        "claude-code",
+        "claudecode",
+        "claudecode-hooks",
+        "plugins",
+        "skills"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Media and content creation",
+      "name": "MatteoFasulo/Whisper-TikTok",
+      "url": "https://github.com/MatteoFasulo/Whisper-TikTok",
+      "description": "From AI tools to TikTok video creation using FFMPEG, Microsoft Edge read aloud and OpenAI Whisper model",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "edge-tts",
+        "ffmpeg",
+        "python",
+        "text-to-speech",
+        "tiktok",
+        "whisper"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Media and content creation",
+      "name": "Paillat-dev/viralfactory",
+      "url": "https://github.com/Paillat-dev/viralfactory",
+      "description": " Viral Factory is a highly modular gradio app that automates the production of various forms of social media content. Thanks to it's complex engines system it allows you to customize its process in detail. ",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": true,
+      "topics": [
+        "ai",
+        "content-creation",
+        "content-creation-auto",
+        "gradio",
+        "tiktok",
+        "youtube",
+        "youtube-automation"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Models and gateways",
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
+      "sources": [
+        "Starred",
+        "Watching"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "a2a",
+        "ai-agents",
+        "ai-gateway",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "codex",
+        "copilot",
+        "cursor",
+        "deepseek",
+        "free-ai",
+        "gemini",
+        "kimi",
+        "llm-gateway",
+        "mcp",
+        "openai",
+        "openai-proxy",
+        "qwen",
+        "token-saver"
+      ]
+    },
+    {
+      "collection": "ai",
+      "category": "Models and gateways",
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "sources": [
+        "Starred"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": []
+    },
+    {
+      "collection": "ai",
+      "category": "Models and gateways",
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "sources": [
+        "Starred",
+        "Watching"
+      ],
+      "private": false,
+      "archived": false,
+      "topics": [
+        "abliteration",
+        "llm",
+        "transformer"
+      ]
+    }
+  ]
+}
